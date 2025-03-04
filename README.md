@@ -2,7 +2,7 @@
 
 The Classroom Project is a web-based application designed to facilitate interaction between students and instructors. This platform allows for class creation, management, and login features such as Email and Google authentication.
 
-[Visit the Original Project](git clone https://github.com/Mohamedgwad/classroom.git)
+[Visit the Original Project](https://github.com/Mohamedgwad/classroom)
 
 ## Features
 
