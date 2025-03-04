@@ -2,7 +2,7 @@
 
 The Classroom Project is a web-based application designed to facilitate interaction between students and instructors. This platform allows for class creation, management, and login features such as Email and Google authentication.
 
-[Visit the Project](https://classroomsm.freewebhostmost.com/)
+[Visit the Original Project](git clone https://github.com/Mohamedgwad/classroom.git)
 
 ## Features
 
@@ -21,7 +21,6 @@ The Classroom Project is a web-based application designed to facilitate interact
 13. **Delete Announcements**: Teachers can delete announcements when no longer needed.  
 14. **Upgrade to Teacher**: Users can be granted teacher privileges to create classes, assign classwork, and manage class activities.  
 15. **View Members Count**: Class creators and members can view the total number of participants (students and teachers) in each class.  
-16. **Hosting**: Classes, assignments, and activities are hosted [here](https://classroomsm.freewebhostmost.com/).  
 
 
 ## Languages Used
@@ -152,33 +151,52 @@ Once the project is running, you can access and use the following features:
 - **Create Class**: Teachers or admins can create new classes.
 - **Join Class**: Students can join classes using a unique class code.
 ## Contributing
+
 We welcome contributions! To contribute to this project, please follow these steps:
-1. **Fork the Repository:**
-   - Click the "Fork" button at the top-right of the repository page to create a personal copy of the repository.
-2. **Clone Your Fork:**
-   - Clone your fork to your local machine:
+
+### 1. **Fork the Repository**
+   - Click the **"Fork"** button at the top-right of the repository page to create a personal copy.
+
+### 2. **Clone Your Fork**
+   - Clone your forked repository to your local machine:
      ```bash
-     git clone https://github.com/Mohamedgwad/classroom.git
+     git clone https://github.com/YourGitHubUsername/Google-ClassRoom-Clone.git
+     cd Google-ClassRoom-Clone
      ```
-3. **Create a New Branch:**
-   - Create a new branch for your changes:
+
+### 3. **Create a New Branch**
+   - Always create a new branch for your changes:
      ```bash
      git checkout -b your-feature-branch
      ```
-4. **Make Changes:**
-   - Make your changes and commit them:
+
+### 4. **Make Your Changes**
+   - Modify the code as needed.
+   - Once done, add your changes and commit them:
      ```bash
      git add .
      git commit -m "Your descriptive commit message"
      ```
-5. **Push Your Changes:**
+
+### 5. **Push Your Changes**
    - Push your changes to your fork:
      ```bash
      git push origin your-feature-branch
      ```
-6. **Submit a Pull Request:**
-   - Go to the original repository and open a pull request to merge your changes.
+
+### 6. **Submit a Pull Request**
+   - Go to the **original repository**:  
+     [Google Classroom Clone](https://github.com/Ahmad-Shaker/Google-ClassRoom-Clone)
+   - Click **"New Pull Request"** and select your feature branch.
+   - Provide a clear description of your changes and submit the PR.
+
 ---
+
+### Need Help?  
+If you have any questions or need assistance, feel free to open an issue in the repository.  
+
+<p align="center"><strong>Happy coding! 🚀</strong><br></p>
+
                   
 <p align="center">
   <strong>By Ahmad Shaker and Mohamed Gwad</strong><br>
