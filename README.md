@@ -47,7 +47,7 @@ Make sure you have the following tools installed on your system:
 To clone the repository to your local machine, use the following command:
 
 ```bash
-git clone https://github.com/Mohamedgwad/classroom.git
+https://github.com/Ahmad-Shaker/Google-ClassRoom-Clone.git
 ```
 
 Then navigate into the project directory:
@@ -160,7 +160,7 @@ We welcome contributions! To contribute to this project, please follow these ste
 ### 2. **Clone Your Fork**
    - Clone your forked repository to your local machine:
      ```bash
-     git clone https://github.com/YourGitHubUsername/Google-ClassRoom-Clone.git
+     git clone https://github.com/Ahmad-Shaker/Google-ClassRoom-Clone.git
      cd Google-ClassRoom-Clone
      ```
 
